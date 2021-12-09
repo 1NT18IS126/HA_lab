@@ -1,7 +1,5 @@
-com/example/roshan/BuildConfig.java
- com.example.roshan.BuildConfig
-com/example/roshan/MainActivity.java
- com.example.roshan.MainActivity
- com.example.roshan.MainActivity$1
-com/example/roshan/MainActivity2.java
- com.example.roshan.MainActivity2
+com/example/phone_dial/MainActivity.java
+ com.example.phone_dial.MainActivity
+ com.example.phone_dial.MainActivity$1
+com/example/phone_dial/BuildConfig.java
+ com.example.phone_dial.BuildConfig
