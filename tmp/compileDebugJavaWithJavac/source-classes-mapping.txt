@@ -1,5 +1,0 @@
-com/example/phone_dial/MainActivity.java
- com.example.phone_dial.MainActivity
- com.example.phone_dial.MainActivity$1
-com/example/phone_dial/BuildConfig.java
- com.example.phone_dial.BuildConfig
